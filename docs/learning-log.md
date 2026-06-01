@@ -44,3 +44,29 @@ Submitted to CS50 Submit on June 1, 2026.
 
 **Result:**
 Passed check50 with 8/8.
+
+
+### CS50x Problem Set 1 — C
+
+**Completed:**
+- Hello, It’s Me
+- Mario less comfortable
+- Cash
+
+**Results:**
+- Hello: passed check50 5/5 and style50 1.00
+- Mario less: passed check50 and style50
+- Cash: passed check50 10/10 and style50 1.00
+
+**What I learned:**
+- C syntax
+- Variables
+- Loops
+- Conditionals
+- Functions
+- Greedy algorithms
+- Input validation
+- Using check50, style50, and submit50
+
+**Reflection:**
+Problem Set 1 helped me move from visual programming in Scratch to writing real C code. I learned how to break problems into smaller steps, test my code, fix errors, and submit work through CS50.

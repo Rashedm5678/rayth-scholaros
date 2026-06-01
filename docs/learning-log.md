@@ -19,4 +19,22 @@ The idea that a smarter algorithm can solve a problem faster than simply using m
 Rayth ScholarOS will take student notes as input, process them using AI, and output summaries, flashcards, quizzes, and study plans.
 
 **Next step:**
-Complete the CS50x Week 0 Scratch project.
+Submit the CS50x Week 0 Scratch project and begin CS50x Week 1.
+
+**Scratch Project:**
+Rayth ScholarOS Study Quest
+
+**Project link:**
+https://scratch.mit.edu/projects/1327267002
+
+**What I built:**
+A Scratch game where the player collects knowledge stars, avoids distractions, gains score, and activates Rayth ScholarOS after reaching 5 points.
+
+**CS50 concepts used:**
+- Events
+- Loops
+- Conditionals
+- Variables
+- Custom blocks
+- Sprites
+- Sound

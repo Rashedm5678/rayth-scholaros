@@ -70,3 +70,29 @@ Passed check50 with 8/8.
 
 **Reflection:**
 Problem Set 1 helped me move from visual programming in Scratch to writing real C code. I learned how to break problems into smaller steps, test my code, fix errors, and submit work through CS50.
+
+### CS50x Problem Set 2 — Arrays
+
+**Completed:**
+- Scrabble
+- Readability
+- Caesar
+
+**Results:**
+- Scrabble: passed check50 13/13 and style50 1.00
+- Readability: passed check50 12/12 and style50 1.00
+- Caesar: passed check50 11/11 and style50 1.00
+
+**What I learned:**
+- Arrays
+- Strings as arrays of characters
+- `strlen`
+- `ctype.h` functions like `isalpha`, `isdigit`, `isupper`, and `islower`
+- Command-line arguments with `argc` and `argv`
+- Caesar cipher encryption
+- Preserving uppercase and lowercase letters
+- Using modulo `%` for wraparound
+- Debugging with compiler errors and check50
+
+**Reflection:**
+Problem Set 2 helped me understand how text is stored and processed in C. I learned how to loop through strings, analyze characters, calculate scores and reading levels, and encrypt messages using command-line arguments.

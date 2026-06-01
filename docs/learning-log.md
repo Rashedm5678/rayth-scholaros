@@ -38,3 +38,8 @@ A Scratch game where the player collects knowledge stars, avoids distractions, g
 - Custom blocks
 - Sprites
 - Sound
+**CS50 submission status:**
+Submitted to CS50 Submit on June 1, 2026.
+
+**Result:**
+Passed check50 with 8/8.

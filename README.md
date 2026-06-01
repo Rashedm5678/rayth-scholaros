@@ -1,20 +1,19 @@
-# OpenClaw: AI Study Assistant for QCE Students
+# Rayth ScholarOS
 
-OpenClaw is a student-built AI study assistant designed to help QCE students summarize notes, create flashcards, generate quiz questions, and organize revision.
+Rayth ScholarOS is a student-built AI study operating system designed to help QCE students summarize notes, create flashcards, generate quiz questions, and organize revision.
 
 ## Why I am building this
 
-I am building OpenClaw because I want to become an AI systems builder before university, not just someone who uses AI tools.
+I am building Rayth ScholarOS because I want to become an AI systems builder before university, not just someone who uses AI tools.
 
 ## First version
 
-The first version will be simple:
+The first version will include:
 
-- Paste study notes
-- Summarize the notes
-- Generate flashcards
-- Generate quiz questions
-- Create a basic study plan
+- Notes summarizer
+- Flashcard generator
+- Quiz generator
+- Study planner
 
 ## Long-term vision
 

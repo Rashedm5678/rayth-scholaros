@@ -22,3 +22,8 @@ Many students struggle with organizing notes and preparing for exams. Rayth Scho
 - AI agent dashboard
 - Weak-topic tracker
 - Exam revision planner
+- Scholarship and university application tracker
+
+## Current goal
+
+Build a simple first prototype that can take study notes and turn them into useful revision material.

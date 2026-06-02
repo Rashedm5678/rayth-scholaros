@@ -96,3 +96,30 @@ Problem Set 1 helped me move from visual programming in Scratch to writing real 
 
 **Reflection:**
 Problem Set 2 helped me understand how text is stored and processed in C. I learned how to loop through strings, analyze characters, calculate scores and reading levels, and encrypt messages using command-line arguments.
+
+### CS50x Problem Set 3 — Algorithms
+
+**Completed:**
+- Sort
+- Plurality
+- Runoff
+
+**Results:**
+- Sort: passed check50 3/3
+- Plurality: passed check50 14/14 and style50 1.00
+- Runoff: passed check50 25/25 and style50 1.00
+
+**What I learned:**
+- Sorting algorithms
+- Bubble sort, selection sort, and merge sort
+- Algorithm performance and timing
+- Arrays of structs
+- Searching through arrays
+- Vote counting systems
+- Ranked-choice voting
+- Elimination logic
+- Handling ties
+- Breaking large problems into smaller functions
+
+**Reflection:**
+Problem Set 3 helped me understand how algorithms behave differently depending on the input. I learned how to analyze sorting programs, build election systems, and solve more complex logic problems by dividing them into smaller functions.

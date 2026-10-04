@@ -1,0 +1,4 @@
+priority,generated_at,class,source,type,title,date_or_due,classroom_status,change,freshness,signal,confidence,reason
+10,2026-10-04T14:00:00Z,Mathematics,classwork,assignment,Budgeting Investigation,Due Oct 9,assigned,UPDATED,FRESH,EXPLICIT_DEADLINE,high,Confirmed due date
+30,2026-10-04T14:00:00Z,English,stream,post,Oral assessment reminder,,,"NEW",FRESH,ASSESSMENT_SIGNAL,medium,Assessment wording detected
+70,2026-10-04T14:00:00Z,Science,classwork,material,Revision worksheet,,,,"FRESH",RESOURCE,high,Material is a resource not homework by itself

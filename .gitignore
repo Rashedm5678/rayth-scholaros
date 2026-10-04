@@ -1,0 +1,46 @@
+# Never commit live School Assistant outputs
+*.log
+log-*.txt
+school_assistant_*.csv
+classroom_*_memory.csv
+classroom_*_events.csv
+classroom_item_packages.csv
+gmail_*_memory.csv
+gmail_*_events.csv
+planner_v3_*.csv
+school_classes_v3.csv
+classroom_discovered_classes_v3.csv
+
+# Downloaded school documents / local exports
+Documents/
+downloads/
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+
+# Secrets and browser state
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
+cookies*
+profile/
+browser-profile/
+
+# Python / editor
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

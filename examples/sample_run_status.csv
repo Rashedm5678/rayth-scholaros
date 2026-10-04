@@ -1,0 +1,2 @@
+version,run_id,status,stage,started_at,finished_at,classes_expected,collector_failures,fallback_classes,attachment_failures,gmail_failures,note
+3.0.0,demo-run-001,COMPLETED,DONE,2026-10-04T13:30:00Z,2026-10-04T13:49:00Z,6,0,,0,0,Sanitized demonstration only
